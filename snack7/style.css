@@ -1,0 +1,12 @@
+*{
+    font-family: "Cabin", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: black;
+}
+
+div#red {
+    color: red;
+}
+
+div#green {
+    color: green;
+}
